@@ -6,6 +6,7 @@
 let teaFlavors = ["green tea", "black tea", "oolong tea"];
 
 const firstTea = teaFlavors[0];
+// console.log(teaFlavors);
 
 /* 
 2. Declare an array named `cities` containing `"London"`, `"Tokyo"`, `"Paris"`, and `"New York"`. 
